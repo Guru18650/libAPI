@@ -1,0 +1,19 @@
+{
+  "name": "libapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guru18650/libapi.git"
+  },
+  "author": "Guru18650",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guru18650/libapi/issues"
+  },
+  "homepage": "https://github.com/Guru18650/libapi#readme"
+}
